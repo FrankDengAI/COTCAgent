@@ -1,0 +1,213 @@
+{
+  "temporal_analysis": {
+    "cox_model": {
+      "enabled": true,
+      "penalizer": 0.01,
+      "l1_ratio": 0.0,
+      "robust": true,
+      "max_iter": 200,
+      "alpha": 0.05,
+      "fit_intercept": true,
+      "normalize": false
+    },
+    "wavelet_analysis": {
+      "enabled": true,
+      "wavelet": "morl",
+      "dwt_wavelet": "db4",
+      "scales": "auto",
+      "sampling_period": 1.0,
+      "dj": 0.125,
+      "s0": 2.0,
+      "j1": null,
+      "coherence": {
+        "n_surrogates": 100,
+        "significance_level": 0.95,
+        "smoothing_length": 5,
+        "scale_smoothing": 1
+      }
+    },
+    "time_series_modeling": {
+      "enabled": true,
+      "arima": {
+        "order": [1, 1, 1],
+        "seasonal_order": null,
+        "enforce_stationarity": true,
+        "enforce_invertibility": true
+      },
+      "garch": {
+        "p": 1,
+        "q": 1,
+        "volatility_model": "GARCH"
+      }
+    },
+    "roc_analysis": {
+      "enabled": true,
+      "n_bootstraps": 100,
+      "confidence_level": 0.95,
+      "evaluation_times_quantiles": [0.25, 0.5, 0.75, 0.9],
+      "metrics": ["auc", "sensitivity", "specificity", "ppv", "npv"]
+    }
+  },
+  "machine_learning": {
+    "ensemble_methods": {
+      "enabled": true,
+      "random_forest": {
+        "n_estimators": 100,
+        "max_depth": null,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1,
+        "bootstrap": true
+      },
+      "gradient_boosting": {
+        "n_estimators": 100,
+        "learning_rate": 0.1,
+        "max_depth": 3,
+        "subsample": 1.0
+      },
+      "xgboost": {
+        "n_estimators": 100,
+        "max_depth": 6,
+        "learning_rate": 0.3,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8
+      }
+    },
+    "deep_learning": {
+      "enabled": false,
+      "lstm": {
+        "units": 64,
+        "dropout": 0.2,
+        "recurrent_dropout": 0.2,
+        "epochs": 100,
+        "batch_size": 32
+      },
+      "transformer": {
+        "d_model": 128,
+        "n_heads": 8,
+        "n_layers": 4,
+        "dropout": 0.1
+      }
+    },
+    "dimensionality_reduction": {
+      "enabled": true,
+      "pca": {
+        "n_components": null,
+        "explained_variance_ratio": 0.95
+      },
+      "tsne": {
+        "n_components": 2,
+        "perplexity": 30,
+        "learning_rate": 200
+      },
+      "umap": {
+        "n_components": 2,
+        "n_neighbors": 15,
+        "min_dist": 0.1
+      }
+    }
+  },
+  "statistical_methods": {
+    "bayesian_analysis": {
+      "enabled": true,
+      "mcmc": {
+        "n_samples": 1000,
+        "burn_in": 100,
+        "thin": 1
+      },
+      "variational_inference": {
+        "n_iter": 1000,
+        "learning_rate": 0.01
+      }
+    },
+    "change_point_detection": {
+      "enabled": true,
+      "methods": ["pelt", "binary_segmentation", "bottom_up"],
+      "penalty": "aic",
+      "min_segment_length": 5
+    },
+    "anomaly_detection": {
+      "enabled": true,
+      "isolation_forest": {
+        "contamination": 0.1,
+        "n_estimators": 100
+      },
+      "local_outlier_factor": {
+        "n_neighbors": 20,
+        "contamination": 0.1
+      },
+      "one_class_svm": {
+        "nu": 0.1,
+        "kernel": "rbf"
+      }
+    }
+  },
+  "performance_optimization": {
+    "parallel_processing": {
+      "enabled": true,
+      "n_jobs": -1,
+      "backend": "threading"
+    },
+    "memory_management": {
+      "chunk_size": 1000,
+      "max_memory_gb": 8.0,
+      "gc_threshold": 1000
+    },
+    "caching": {
+      "enabled": true,
+      "cache_dir": "./cache",
+      "max_cache_size_gb": 2.0,
+      "ttl_seconds": 3600
+    }
+  },
+  "validation": {
+    "cross_validation": {
+      "enabled": true,
+      "n_folds": 5,
+      "stratified": true,
+      "shuffle": true,
+      "random_state": 42
+    },
+    "bootstrap_validation": {
+      "enabled": true,
+      "n_bootstraps": 1000,
+      "confidence_level": 0.95
+    },
+    "temporal_validation": {
+      "enabled": true,
+      "train_test_split": 0.7,
+      "rolling_window": true,
+      "window_size": 30
+    }
+  },
+  "clinical_integration": {
+    "disease_mapping": {
+      "use_medical_databases": true,
+      "min_confidence_threshold": 0.6,
+      "max_candidates": 10
+    },
+    "risk_stratification": {
+      "risk_levels": ["Very Low", "Low", "Medium", "High", "Very High"],
+      "thresholds": [0.2, 0.4, 0.6, 0.8],
+      "temporal_weighting": true
+    },
+    "intervention_guidelines": {
+      "enabled": true,
+      "urgency_levels": ["Routine", "Urgent", "Emergency"],
+      "follow_up_intervals": [30, 7, 1]
+    }
+  },
+  "output_formats": {
+    "reports": {
+      "clinical_summary": true,
+      "technical_details": true,
+      "visualizations": true,
+      "confidence_intervals": true
+    },
+    "export_formats": ["json", "csv", "pdf", "html"],
+    "real_time_updates": {
+      "enabled": false,
+      "update_interval_seconds": 60,
+      "websocket_endpoint": "/ws/analysis_updates"
+    }
+  }
+}

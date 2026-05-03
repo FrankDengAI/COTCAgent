@@ -1,0 +1,2538 @@
+{
+  "疾病库": [
+    {
+      "疾病ID": "D006253",
+      "疾病名称": "早期膀胱癌损伤",
+      "症状列表": [
+        {
+          "symptom_id": "S006253_006",
+          "symptom_name": "血尿",
+          "disease_id": "D006253",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S009078_013",
+          "symptom_name": "尿频",
+          "disease_id": "D006253",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006253_001",
+          "symptom_name": "排尿疼痛",
+          "disease_id": "D006253",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006253_002",
+          "symptom_name": "下腹部疼痛",
+          "disease_id": "D006253",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006253_003",
+          "symptom_name": "尿急",
+          "disease_id": "D006253",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "早期膀胱癌损伤是指膀胱内壁细胞发生恶性变化，初期可能无明显症状，但常见症状包括血尿、尿频、排尿疼痛等。血尿是最具特异性的症状，通常为无痛性血尿。"
+    },
+    {
+      "疾病ID": "D006252",
+      "疾病名称": "慢性尿失禁变性",
+      "症状列表": [
+        {
+          "symptom_id": "S008506_008",
+          "symptom_name": "尿失禁",
+          "disease_id": "D006252",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S008506_009",
+          "symptom_name": "尿频",
+          "disease_id": "D006252",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008506_010",
+          "symptom_name": "尿急",
+          "disease_id": "D006252",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008506_011",
+          "symptom_name": "夜尿增多",
+          "disease_id": "D006252",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008506_012",
+          "symptom_name": "排尿困难",
+          "disease_id": "D006252",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008506_013",
+          "symptom_name": "膀胱疼痛",
+          "disease_id": "D006252",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "慢性尿失禁变性是一种长期的泌尿系统疾病，主要表现为无法控制的尿液漏出，可能伴随尿频、尿急等症状。常见于老年人或神经系统疾病患者。"
+    },
+    {
+      "疾病ID": "D006254",
+      "疾病名称": "继发性尿道狭窄病",
+      "症状列表": [
+        {
+          "symptom_id": "S006254_002",
+          "symptom_name": "排尿困难",
+          "disease_id": "D006254",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S002087_007",
+          "symptom_name": "尿流变细",
+          "disease_id": "D006254",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006254_003",
+          "symptom_name": "尿频",
+          "disease_id": "D006254",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006254_004",
+          "symptom_name": "尿急",
+          "disease_id": "D006254",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006254_005",
+          "symptom_name": "尿痛",
+          "disease_id": "D006254",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006254_006",
+          "symptom_name": "尿潴留",
+          "disease_id": "D006254",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006254_007",
+          "symptom_name": "血尿",
+          "disease_id": "D006254",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "继发性尿道狭窄病是由于尿道损伤、感染或手术后瘢痕形成导致的尿道管腔狭窄，主要症状包括排尿困难、尿流变细、尿频、尿急、尿痛、尿潴留和血尿等。"
+    },
+    {
+      "疾病ID": "D006255",
+      "疾病名称": "急性高血压障碍",
+      "症状列表": [
+        {
+          "symptom_id": "S006255_001",
+          "symptom_name": "头痛",
+          "disease_id": "D006255",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009025_004",
+          "symptom_name": "视力模糊",
+          "disease_id": "D006255",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006255_002",
+          "symptom_name": "恶心呕吐",
+          "disease_id": "D006255",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006255_003",
+          "symptom_name": "胸痛",
+          "disease_id": "D006255",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006255_004",
+          "symptom_name": "呼吸困难",
+          "disease_id": "D006255",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006255_005",
+          "symptom_name": "意识模糊",
+          "disease_id": "D006255",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006255_006",
+          "symptom_name": "鼻出血",
+          "disease_id": "D006255",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006255_007",
+          "symptom_name": "血压急剧升高",
+          "disease_id": "D006255",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "急性高血压障碍是指血压在短时间内急剧升高，可能导致器官损伤的紧急情况。常见于高血压急症或恶性高血压。"
+    },
+    {
+      "疾病ID": "D006251",
+      "疾病名称": "继发性肝硬化瘤",
+      "症状列表": [
+        {
+          "symptom_id": "S008764_001",
+          "symptom_name": "皮肤黄疸",
+          "disease_id": "D006251",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008764_002",
+          "symptom_name": "腹水",
+          "disease_id": "D006251",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008764_003",
+          "symptom_name": "肝区疼痛",
+          "disease_id": "D006251",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008764_004",
+          "symptom_name": "肝肿大",
+          "disease_id": "D006251",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008764_005",
+          "symptom_name": "体重下降",
+          "disease_id": "D006251",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008764_006",
+          "symptom_name": "疲劳",
+          "disease_id": "D006251",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008764_007",
+          "symptom_name": "食欲不振",
+          "disease_id": "D006251",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008764_008",
+          "symptom_name": "肝功能异常",
+          "disease_id": "D006251",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "继发性肝硬化瘤是指在肝硬化基础上发生的肝脏肿瘤，通常由肝硬化引起的肝细胞再生异常导致。常见症状包括肝区疼痛、腹水、黄疸等，肝功能异常是其特异性表现。"
+    },
+    {
+      "疾病ID": "D006259",
+      "疾病名称": "中度淋巴瘤障碍",
+      "症状列表": [
+        {
+          "symptom_id": "S003970_001",
+          "symptom_name": "淋巴结肿大",
+          "disease_id": "D006259",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S003970_002",
+          "symptom_name": "疲劳",
+          "disease_id": "D006259",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003970_003",
+          "symptom_name": "体重下降",
+          "disease_id": "D006259",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003970_004",
+          "symptom_name": "夜间盗汗",
+          "disease_id": "D006259",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003970_005",
+          "symptom_name": "发热",
+          "disease_id": "D006259",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003970_006",
+          "symptom_name": "皮肤瘙痒",
+          "disease_id": "D006259",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "中度淋巴瘤障碍是一种淋巴系统的恶性肿瘤，主要表现为淋巴结肿大，伴随疲劳、体重下降、夜间盗汗、发热和皮肤瘙痒等症状。"
+    },
+    {
+      "疾病ID": "D006257",
+      "疾病名称": "重症凝血功能障碍损伤",
+      "症状列表": [
+        {
+          "symptom_id": "S006257_002",
+          "symptom_name": "鼻出血",
+          "disease_id": "D006257",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008574_014",
+          "symptom_name": "恶心",
+          "disease_id": "D006257",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006257_001",
+          "symptom_name": "皮肤瘀斑",
+          "disease_id": "D006257",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006257_003",
+          "symptom_name": "牙龈出血",
+          "disease_id": "D006257",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006257_004",
+          "symptom_name": "血尿",
+          "disease_id": "D006257",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006257_005",
+          "symptom_name": "黑便",
+          "disease_id": "D006257",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006257_006",
+          "symptom_name": "关节血肿",
+          "disease_id": "D006257",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006257_007",
+          "symptom_name": "月经过多",
+          "disease_id": "D006257",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "重症凝血功能障碍损伤是一种严重的凝血系统异常疾病，表现为多种出血症状，可能由遗传性或获得性凝血因子缺乏、血小板功能障碍或血管异常引起。"
+    },
+    {
+      "疾病ID": "D006260",
+      "疾病名称": "重症色盲变性",
+      "症状列表": [
+        {
+          "symptom_id": "S000400_009",
+          "symptom_name": "色觉异常",
+          "disease_id": "D006260",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S000400_010",
+          "symptom_name": "视力下降",
+          "disease_id": "D006260",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S000400_011",
+          "symptom_name": "夜盲",
+          "disease_id": "D006260",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S000400_012",
+          "symptom_name": "视野缺损",
+          "disease_id": "D006260",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S000400_013",
+          "symptom_name": "光敏感",
+          "disease_id": "D006260",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "重症色盲变性是一种遗传性视网膜疾病，主要影响色觉和视力，通常由基因突变引起，导致视网膜中视锥细胞功能异常或退化。"
+    },
+    {
+      "疾病ID": "D006258",
+      "疾病名称": "急性流感硬化",
+      "症状列表": [
+        {
+          "symptom_id": "S009483_007",
+          "symptom_name": "结膜充血",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_008",
+          "symptom_name": "高热",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_009",
+          "symptom_name": "肌肉疼痛",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_010",
+          "symptom_name": "头痛",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_011",
+          "symptom_name": "疲劳",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_012",
+          "symptom_name": "咳嗽",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_013",
+          "symptom_name": "喉咙痛",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_014",
+          "symptom_name": "鼻塞",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_015",
+          "symptom_name": "呼吸困难",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_016",
+          "symptom_name": "恶心或呕吐",
+          "disease_id": "D006258",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S009483_017",
+          "symptom_name": "腹泻",
+          "disease_id": "D006258",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "急性流感硬化是一种由流感病毒引起的急性呼吸道传染病，主要症状包括高热、肌肉疼痛、头痛、疲劳、咳嗽、喉咙痛、鼻塞等。严重时可出现呼吸困难和消化系统症状。"
+    },
+    {
+      "疾病ID": "D006256",
+      "疾病名称": "重症肾小管间质肾炎综合征",
+      "症状列表": [
+        {
+          "symptom_id": "S006256_001",
+          "symptom_name": "胸闷",
+          "disease_id": "D006256",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006256_002",
+          "symptom_name": "耳鸣",
+          "disease_id": "D006256",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001652_015",
+          "symptom_name": "抑郁",
+          "disease_id": "D006256",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006256_003",
+          "symptom_name": "少尿或无尿",
+          "disease_id": "D006256",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006256_004",
+          "symptom_name": "水肿",
+          "disease_id": "D006256",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006256_005",
+          "symptom_name": "高血压",
+          "disease_id": "D006256",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006256_006",
+          "symptom_name": "蛋白尿",
+          "disease_id": "D006256",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006256_007",
+          "symptom_name": "血尿",
+          "disease_id": "D006256",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006256_008",
+          "symptom_name": "肾功能急剧恶化",
+          "disease_id": "D006256",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006256_009",
+          "symptom_name": "腰痛",
+          "disease_id": "D006256",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006256_010",
+          "symptom_name": "发热",
+          "disease_id": "D006256",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006256_011",
+          "symptom_name": "乏力",
+          "disease_id": "D006256",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006256_012",
+          "symptom_name": "恶心呕吐",
+          "disease_id": "D006256",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "重症肾小管间质肾炎综合征是一种以肾小管间质炎症和损伤为主要特征的肾脏疾病，常导致肾功能急剧恶化。病因包括药物过敏、感染、自身免疫性疾病等。临床表现为少尿或无尿、蛋白尿、血尿、肾功能急剧恶化等。"
+    },
+    {
+      "疾病ID": "D006262",
+      "疾病名称": "复发性心包炎硬化",
+      "症状列表": [
+        {
+          "symptom_id": "S006262_005",
+          "symptom_name": "胸痛",
+          "disease_id": "D006262",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S002682_006",
+          "symptom_name": "呼吸困难",
+          "disease_id": "D006262",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006262_001",
+          "symptom_name": "心包摩擦音",
+          "disease_id": "D006262",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006262_002",
+          "symptom_name": "发热",
+          "disease_id": "D006262",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006262_003",
+          "symptom_name": "乏力",
+          "disease_id": "D006262",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006262_004",
+          "symptom_name": "心悸",
+          "disease_id": "D006262",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "复发性心包炎硬化是一种心包炎症反复发作并导致心包纤维化和钙化的疾病，主要表现为胸痛、心包摩擦音和呼吸困难等症状。"
+    },
+    {
+      "疾病ID": "D006263",
+      "疾病名称": "重症低钠血症硬化",
+      "症状列表": [
+        {
+          "symptom_id": "S001084_006",
+          "symptom_name": "性功能障碍",
+          "disease_id": "D006263",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001084_001",
+          "symptom_name": "严重低钠血症",
+          "disease_id": "D006263",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S001084_002",
+          "symptom_name": "神经系统症状（如意识模糊、抽搐）",
+          "disease_id": "D006263",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001084_003",
+          "symptom_name": "肌肉无力或痉挛",
+          "disease_id": "D006263",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001084_004",
+          "symptom_name": "恶心呕吐",
+          "disease_id": "D006263",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001084_005",
+          "symptom_name": "头痛",
+          "disease_id": "D006263",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "重症低钠血症硬化是一种由于血液中钠离子浓度严重降低导致的疾病，可能引发神经系统和其他系统的功能障碍。"
+    },
+    {
+      "疾病ID": "D006261",
+      "疾病名称": "早期克隆病损伤",
+      "症状列表": [
+        {
+          "symptom_id": "S006261_005",
+          "symptom_name": "腹痛",
+          "disease_id": "D006261",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006261_006",
+          "symptom_name": "腹泻",
+          "disease_id": "D006261",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007411_007",
+          "symptom_name": "体重下降",
+          "disease_id": "D006261",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006261_008",
+          "symptom_name": "疲劳",
+          "disease_id": "D006261",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006261_009",
+          "symptom_name": "发热",
+          "disease_id": "D006261",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006261_010",
+          "symptom_name": "口腔溃疡",
+          "disease_id": "D006261",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006261_011",
+          "symptom_name": "腹部压痛",
+          "disease_id": "D006261",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006261_012",
+          "symptom_name": "便血",
+          "disease_id": "D006261",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006261_013",
+          "symptom_name": "肠梗阻症状",
+          "disease_id": "D006261",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "克隆病是一种慢性炎症性肠病，可影响胃肠道的任何部分，但最常见于末端回肠和结肠。早期损伤阶段可能表现为非特异性症状，如腹痛、腹泻和体重下降，随着病情进展可能出现更严重的症状如便血和肠梗阻。"
+    },
+    {
+      "疾病ID": "D006265",
+      "疾病名称": "继发性肾上腺皮质功能亢进综合征",
+      "症状列表": [
+        {
+          "symptom_id": "S006265_003",
+          "symptom_name": "皮肤紫纹",
+          "disease_id": "D006265",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006709_003",
+          "symptom_name": "向心性肥胖",
+          "disease_id": "D006265",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006265_004",
+          "symptom_name": "高血压",
+          "disease_id": "D006265",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006265_005",
+          "symptom_name": "多毛症",
+          "disease_id": "D006265",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006265_006",
+          "symptom_name": "月经紊乱",
+          "disease_id": "D006265",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006265_007",
+          "symptom_name": "肌无力",
+          "disease_id": "D006265",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006265_008",
+          "symptom_name": "骨质疏松",
+          "disease_id": "D006265",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006265_009",
+          "symptom_name": "血糖升高",
+          "disease_id": "D006265",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "继发性肾上腺皮质功能亢进综合征是由于下丘脑-垂体病变或长期使用外源性糖皮质激素导致ACTH分泌过多，进而引起肾上腺皮质增生和皮质醇分泌过多的临床综合征。"
+    },
+    {
+      "疾病ID": "D006264",
+      "疾病名称": "复发性痛风综合征",
+      "症状列表": [
+        {
+          "symptom_id": "S006264_005",
+          "symptom_name": "抑郁",
+          "disease_id": "D006264",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008167_002",
+          "symptom_name": "记忆力减退",
+          "disease_id": "D006264",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006264_001",
+          "symptom_name": "关节疼痛",
+          "disease_id": "D006264",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006264_002",
+          "symptom_name": "关节肿胀",
+          "disease_id": "D006264",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006264_003",
+          "symptom_name": "关节发红",
+          "disease_id": "D006264",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006264_004",
+          "symptom_name": "关节发热",
+          "disease_id": "D006264",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006264_006",
+          "symptom_name": "痛风石",
+          "disease_id": "D006264",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006264_007",
+          "symptom_name": "活动受限",
+          "disease_id": "D006264",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "复发性痛风综合征是一种由于尿酸代谢异常导致尿酸结晶沉积在关节及周围组织，引起反复发作的炎症性关节病。典型表现为突发的关节剧烈疼痛、肿胀、发红和发热，常见于大脚趾关节。长期未控制可形成痛风石并导致关节破坏。"
+    },
+    {
+      "疾病ID": "D006266",
+      "疾病名称": "重症低钠血症综合征",
+      "症状列表": [
+        {
+          "symptom_id": "S001687_005",
+          "symptom_name": "恶心呕吐",
+          "disease_id": "D006266",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001687_001",
+          "symptom_name": "头痛",
+          "disease_id": "D006266",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001687_002",
+          "symptom_name": "意识模糊",
+          "disease_id": "D006266",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001687_003",
+          "symptom_name": "癫痫发作",
+          "disease_id": "D006266",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001687_004",
+          "symptom_name": "肌肉痉挛",
+          "disease_id": "D006266",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001687_006",
+          "symptom_name": "昏迷",
+          "disease_id": "D006266",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001687_007",
+          "symptom_name": "低血压",
+          "disease_id": "D006266",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001687_008",
+          "symptom_name": "心动过缓",
+          "disease_id": "D006266",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "重症低钠血症综合征是由于血清钠浓度严重降低（通常低于120 mmol/L）引起的一系列神经系统症状，可能导致脑水肿和严重并发症。"
+    },
+    {
+      "疾病ID": "D006267",
+      "疾病名称": "继发性动脉粥样硬化",
+      "症状列表": [
+        {
+          "symptom_id": "S006267_004",
+          "symptom_name": "体重增加",
+          "disease_id": "D006267",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S005360_007",
+          "symptom_name": "胸痛",
+          "disease_id": "D006267",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006267_001",
+          "symptom_name": "间歇性跛行",
+          "disease_id": "D006267",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006267_002",
+          "symptom_name": "头晕",
+          "disease_id": "D006267",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006267_003",
+          "symptom_name": "心悸",
+          "disease_id": "D006267",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006267_005",
+          "symptom_name": "呼吸困难",
+          "disease_id": "D006267",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006267_006",
+          "symptom_name": "下肢水肿",
+          "disease_id": "D006267",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006267_007",
+          "symptom_name": "视力模糊",
+          "disease_id": "D006267",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "继发性动脉粥样硬化是由于其他疾病或因素（如高血压、糖尿病、高脂血症等）导致的动脉壁增厚和硬化，进而引起血管狭窄或闭塞，影响血液供应。"
+    },
+    {
+      "疾病ID": "D006268",
+      "疾病名称": "中度乳腺炎损伤",
+      "症状列表": [
+        {
+          "symptom_id": "S006268_002",
+          "symptom_name": "嗜睡",
+          "disease_id": "D006268",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S005990_005",
+          "symptom_name": "乳房红肿",
+          "disease_id": "D006268",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006268_001",
+          "symptom_name": "乳房疼痛",
+          "disease_id": "D006268",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006268_003",
+          "symptom_name": "乳房发热",
+          "disease_id": "D006268",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006268_004",
+          "symptom_name": "乳房硬块",
+          "disease_id": "D006268",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006268_005",
+          "symptom_name": "发热",
+          "disease_id": "D006268",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006268_006",
+          "symptom_name": "乏力",
+          "disease_id": "D006268",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "中度乳腺炎损伤是指乳腺组织的炎症反应达到中等程度，通常由细菌感染引起，常见于哺乳期妇女。主要症状包括乳房红肿、疼痛、发热和硬块，可能伴有全身症状如发热和乏力。"
+    },
+    {
+      "疾病ID": "D006269",
+      "疾病名称": "重症膀胱结石障碍",
+      "症状列表": [
+        {
+          "symptom_id": "S006269_004",
+          "symptom_name": "排尿困难",
+          "disease_id": "D006269",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S002846_002",
+          "symptom_name": "下腹部疼痛",
+          "disease_id": "D006269",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006269_001",
+          "symptom_name": "血尿",
+          "disease_id": "D006269",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006269_002",
+          "symptom_name": "尿频",
+          "disease_id": "D006269",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006269_003",
+          "symptom_name": "尿急",
+          "disease_id": "D006269",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006269_005",
+          "symptom_name": "尿流中断",
+          "disease_id": "D006269",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "重症膀胱结石障碍是由于膀胱内结石导致的一系列症状，包括排尿困难、下腹部疼痛、血尿等。结石可能阻塞尿流，引起尿频、尿急等症状。"
+    },
+    {
+      "疾病ID": "D006270",
+      "疾病名称": "重症高脂血症瘤",
+      "症状列表": [
+        {
+          "symptom_id": "S006270_001",
+          "symptom_name": "黄色瘤",
+          "disease_id": "D006270",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006904_006",
+          "symptom_name": "胸痛",
+          "disease_id": "D006270",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006270_002",
+          "symptom_name": "角膜弓",
+          "disease_id": "D006270",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006270_003",
+          "symptom_name": "胰腺炎",
+          "disease_id": "D006270",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006270_004",
+          "symptom_name": "肝脾肿大",
+          "disease_id": "D006270",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006270_005",
+          "symptom_name": "高胆固醇血症",
+          "disease_id": "D006270",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "重症高脂血症瘤是一种罕见的遗传性代谢疾病，主要表现为血液中脂质水平异常升高，导致黄色瘤、角膜弓等特异性症状，可能伴随胰腺炎、胸痛等非特异性症状。"
+    },
+    {
+      "疾病ID": "D006271",
+      "疾病名称": "继发性气胸障碍",
+      "症状列表": [
+        {
+          "symptom_id": "S007882_006",
+          "symptom_name": "疲劳",
+          "disease_id": "D006271",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007882_001",
+          "symptom_name": "突发性胸痛",
+          "disease_id": "D006271",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S007882_002",
+          "symptom_name": "呼吸困难",
+          "disease_id": "D006271",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S007882_003",
+          "symptom_name": "咳嗽",
+          "disease_id": "D006271",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007882_004",
+          "symptom_name": "呼吸急促",
+          "disease_id": "D006271",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007882_005",
+          "symptom_name": "发绀",
+          "disease_id": "D006271",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "继发性气胸障碍是由于肺部疾病（如慢性阻塞性肺病、肺结核等）导致肺泡破裂，气体进入胸膜腔，使胸膜腔内压力增高，肺组织受压萎缩，从而引起呼吸困难、胸痛等症状的疾病。"
+    },
+    {
+      "疾病ID": "D006272",
+      "疾病名称": "早期鼻窦炎硬化",
+      "症状列表": [
+        {
+          "symptom_id": "S006272_005",
+          "symptom_name": "鼻塞",
+          "disease_id": "D006272",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006272_006",
+          "symptom_name": "面部疼痛或压迫感",
+          "disease_id": "D006272",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001613_013",
+          "symptom_name": "嗅觉减退",
+          "disease_id": "D006272",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006272_007",
+          "symptom_name": "鼻腔分泌物增多",
+          "disease_id": "D006272",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006272_008",
+          "symptom_name": "头痛",
+          "disease_id": "D006272",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006272_009",
+          "symptom_name": "鼻窦区压痛",
+          "disease_id": "D006272",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "早期鼻窦炎硬化是鼻窦炎的初期阶段，表现为鼻窦黏膜的炎症和硬化，常见症状包括鼻塞、面部疼痛、嗅觉减退等。"
+    },
+    {
+      "疾病ID": "D006273",
+      "疾病名称": "继发性脑肿瘤炎",
+      "症状列表": [
+        {
+          "symptom_id": "S002321_009",
+          "symptom_name": "头痛",
+          "disease_id": "D006273",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002321_010",
+          "symptom_name": "恶心呕吐",
+          "disease_id": "D006273",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002321_011",
+          "symptom_name": "视力模糊",
+          "disease_id": "D006273",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002321_012",
+          "symptom_name": "癫痫发作",
+          "disease_id": "D006273",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002321_013",
+          "symptom_name": "肢体无力",
+          "disease_id": "D006273",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002321_014",
+          "symptom_name": "意识障碍",
+          "disease_id": "D006273",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002321_015",
+          "symptom_name": "发热",
+          "disease_id": "D006273",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002321_016",
+          "symptom_name": "脑膜刺激征",
+          "disease_id": "D006273",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "继发性脑肿瘤炎是指由其他部位的肿瘤转移至脑部并引发炎症反应的疾病。常见于肺癌、乳腺癌等恶性肿瘤的脑转移。临床表现为头痛、恶心呕吐、神经功能障碍等，严重时可导致意识障碍和癫痫发作。"
+    },
+    {
+      "疾病ID": "D006275",
+      "疾病名称": "急性黄褐斑瘤",
+      "症状列表": [
+        {
+          "symptom_id": "S006275_002",
+          "symptom_name": "皮肤黄褐色斑块",
+          "disease_id": "D006275",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006275_005",
+          "symptom_name": "皮肤瘙痒",
+          "disease_id": "D006275",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003169_005",
+          "symptom_name": "皮肤结节",
+          "disease_id": "D006275",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006275_001",
+          "symptom_name": "皮肤色素沉着",
+          "disease_id": "D006275",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006275_003",
+          "symptom_name": "皮肤炎症",
+          "disease_id": "D006275",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006275_004",
+          "symptom_name": "皮肤溃疡",
+          "disease_id": "D006275",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "急性黄褐斑瘤是一种罕见的皮肤病，其特征是皮肤上出现黄褐色的斑块或结节，可能伴有瘙痒、炎症或溃疡。该病通常与代谢异常或免疫系统紊乱有关。"
+    },
+    {
+      "疾病ID": "D006277",
+      "疾病名称": "轻度鼻炎损伤",
+      "症状列表": [
+        {
+          "symptom_id": "S001299_013",
+          "symptom_name": "鼻塞",
+          "disease_id": "D006277",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001299_014",
+          "symptom_name": "流鼻涕",
+          "disease_id": "D006277",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001299_015",
+          "symptom_name": "打喷嚏",
+          "disease_id": "D006277",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001299_016",
+          "symptom_name": "鼻痒",
+          "disease_id": "D006277",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001299_017",
+          "symptom_name": "嗅觉减退",
+          "disease_id": "D006277",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "轻度鼻炎损伤是指鼻腔黏膜的轻微炎症反应，通常由过敏、感染或环境刺激引起，表现为鼻塞、流鼻涕、打喷嚏等症状。"
+    },
+    {
+      "疾病ID": "D006276",
+      "疾病名称": "复发性腱鞘炎瘤",
+      "症状列表": [
+        {
+          "symptom_id": "S003533_006",
+          "symptom_name": "局部肿块",
+          "disease_id": "D006276",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S003533_007",
+          "symptom_name": "疼痛",
+          "disease_id": "D006276",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003533_008",
+          "symptom_name": "活动受限",
+          "disease_id": "D006276",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003533_009",
+          "symptom_name": "压痛",
+          "disease_id": "D006276",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003533_010",
+          "symptom_name": "肿胀",
+          "disease_id": "D006276",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "复发性腱鞘炎瘤是一种良性肿瘤，通常发生在腱鞘附近，表现为局部肿块，可能伴有疼痛和活动受限。"
+    },
+    {
+      "疾病ID": "D006274",
+      "疾病名称": "复发性疟疾障碍",
+      "症状列表": [
+        {
+          "symptom_id": "S006274_001",
+          "symptom_name": "呕血",
+          "disease_id": "D006274",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008453_011",
+          "symptom_name": "皮肤瘙痒",
+          "disease_id": "D006274",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006274_002",
+          "symptom_name": "周期性发热",
+          "disease_id": "D006274",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006274_003",
+          "symptom_name": "寒战",
+          "disease_id": "D006274",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006274_004",
+          "symptom_name": "头痛",
+          "disease_id": "D006274",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006274_005",
+          "symptom_name": "肌肉疼痛",
+          "disease_id": "D006274",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006274_006",
+          "symptom_name": "贫血",
+          "disease_id": "D006274",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006274_007",
+          "symptom_name": "脾肿大",
+          "disease_id": "D006274",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006274_008",
+          "symptom_name": "疲劳",
+          "disease_id": "D006274",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006274_009",
+          "symptom_name": "恶心",
+          "disease_id": "D006274",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006274_010",
+          "symptom_name": "呕吐",
+          "disease_id": "D006274",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "复发性疟疾障碍是由疟原虫感染引起的疾病，其特征为周期性发作的发热、寒战和其他症状，通常与疟原虫在红细胞内的生命周期相关。"
+    },
+    {
+      "疾病ID": "D006278",
+      "疾病名称": "中度前列腺癌障碍",
+      "症状列表": [
+        {
+          "symptom_id": "S001826_007",
+          "symptom_name": "疲劳",
+          "disease_id": "D006278",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001826_001",
+          "symptom_name": "排尿困难",
+          "disease_id": "D006278",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S001826_002",
+          "symptom_name": "尿频",
+          "disease_id": "D006278",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001826_003",
+          "symptom_name": "尿急",
+          "disease_id": "D006278",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001826_004",
+          "symptom_name": "血尿",
+          "disease_id": "D006278",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001826_005",
+          "symptom_name": "骨盆疼痛",
+          "disease_id": "D006278",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S001826_006",
+          "symptom_name": "勃起功能障碍",
+          "disease_id": "D006278",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "中度前列腺癌障碍是指前列腺癌发展到中等程度，可能已经扩散到前列腺周围组织，但尚未广泛转移。常见症状包括排尿困难、尿频、尿急、血尿、骨盆疼痛和勃起功能障碍。疲劳也可能由于癌症本身或治疗引起。"
+    },
+    {
+      "疾病ID": "D006279",
+      "疾病名称": "中度肺结核症",
+      "症状列表": [
+        {
+          "symptom_id": "S006279_005",
+          "symptom_name": "咯血",
+          "disease_id": "D006279",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S004601_005",
+          "symptom_name": "盗汗",
+          "disease_id": "D006279",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006279_001",
+          "symptom_name": "咳嗽",
+          "disease_id": "D006279",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006279_002",
+          "symptom_name": "咳痰",
+          "disease_id": "D006279",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006279_003",
+          "symptom_name": "胸痛",
+          "disease_id": "D006279",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006279_004",
+          "symptom_name": "发热",
+          "disease_id": "D006279",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006279_006",
+          "symptom_name": "体重减轻",
+          "disease_id": "D006279",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006279_007",
+          "symptom_name": "疲劳",
+          "disease_id": "D006279",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006279_008",
+          "symptom_name": "食欲不振",
+          "disease_id": "D006279",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "肺结核是由结核分枝杆菌引起的慢性传染病，主要影响肺部，但也可累及其他器官。中度肺结核症表现为肺部病变较为明显，伴有典型的结核症状如咳嗽、咳痰、发热、盗汗等。"
+    },
+    {
+      "疾病ID": "D006281",
+      "疾病名称": "轻度偏头痛硬化",
+      "症状列表": [
+        {
+          "symptom_id": "S006281_001",
+          "symptom_name": "眼痒",
+          "disease_id": "D006281",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006281_007",
+          "symptom_name": "头痛",
+          "disease_id": "D006281",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S005876_007",
+          "symptom_name": "视觉先兆",
+          "disease_id": "D006281",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006281_002",
+          "symptom_name": "恶心",
+          "disease_id": "D006281",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006281_003",
+          "symptom_name": "畏光",
+          "disease_id": "D006281",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006281_004",
+          "symptom_name": "畏声",
+          "disease_id": "D006281",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006281_005",
+          "symptom_name": "头晕",
+          "disease_id": "D006281",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "轻度偏头痛硬化是一种以反复发作的头痛为主要特征的神经系统疾病，常伴有视觉先兆、恶心、畏光、畏声等症状。头痛通常为单侧、搏动性，持续数小时至数天。"
+    },
+    {
+      "疾病ID": "D006280",
+      "疾病名称": "继发性咽炎损伤",
+      "症状列表": [
+        {
+          "symptom_id": "S006280_001",
+          "symptom_name": "咽痛",
+          "disease_id": "D006280",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S008959_005",
+          "symptom_name": "吞咽困难",
+          "disease_id": "D006280",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006280_002",
+          "symptom_name": "咽部充血",
+          "disease_id": "D006280",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006280_003",
+          "symptom_name": "咽部异物感",
+          "disease_id": "D006280",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006280_004",
+          "symptom_name": "发热",
+          "disease_id": "D006280",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006280_005",
+          "symptom_name": "咳嗽",
+          "disease_id": "D006280",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006280_006",
+          "symptom_name": "声音嘶哑",
+          "disease_id": "D006280",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "继发性咽炎损伤是指由于其他疾病或因素导致的咽部炎症性损伤，常见于感染、外伤、化学刺激等。主要症状包括咽痛、吞咽困难、咽部充血和异物感，可能伴有发热、咳嗽等非特异性症状。"
+    },
+    {
+      "疾病ID": "D006282",
+      "疾病名称": "重症带状疱疹损伤",
+      "症状列表": [
+        {
+          "symptom_id": "S006282_001",
+          "symptom_name": "恶心呕吐",
+          "disease_id": "D006282",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008462_006",
+          "symptom_name": "神经痛",
+          "disease_id": "D006282",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006282_002",
+          "symptom_name": "带状疱疹皮疹",
+          "disease_id": "D006282",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006282_003",
+          "symptom_name": "发热",
+          "disease_id": "D006282",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006282_004",
+          "symptom_name": "头痛",
+          "disease_id": "D006282",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006282_005",
+          "symptom_name": "皮肤感觉异常",
+          "disease_id": "D006282",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006282_006",
+          "symptom_name": "乏力",
+          "disease_id": "D006282",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "重症带状疱疹损伤是由水痘-带状疱疹病毒引起的严重感染，主要特征为沿神经分布的带状疱疹皮疹和剧烈神经痛，可伴有全身症状如发热、乏力等。"
+    },
+    {
+      "疾病ID": "D006283",
+      "疾病名称": "中度葡萄膜炎瘤",
+      "症状列表": [
+        {
+          "symptom_id": "S006283_005",
+          "symptom_name": "眼红",
+          "disease_id": "D006283",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S004120_005",
+          "symptom_name": "视力模糊",
+          "disease_id": "D006283",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006283_001",
+          "symptom_name": "眼痛",
+          "disease_id": "D006283",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006283_002",
+          "symptom_name": "畏光",
+          "disease_id": "D006283",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006283_003",
+          "symptom_name": "飞蚊症",
+          "disease_id": "D006283",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006283_004",
+          "symptom_name": "流泪",
+          "disease_id": "D006283",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "中度葡萄膜炎瘤是一种影响葡萄膜的中度炎症性肿瘤，可能导致眼红、眼痛、视力模糊等症状，严重时可影响视力。"
+    },
+    {
+      "疾病ID": "D006287",
+      "疾病名称": "轻度荨麻疹症",
+      "症状列表": [
+        {
+          "symptom_id": "S008128_002",
+          "symptom_name": "皮肤瘙痒",
+          "disease_id": "D006287",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008128_003",
+          "symptom_name": "红色或苍白色风团",
+          "disease_id": "D006287",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S008128_004",
+          "symptom_name": "皮肤肿胀",
+          "disease_id": "D006287",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S008128_005",
+          "symptom_name": "风团大小不一",
+          "disease_id": "D006287",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S008128_006",
+          "symptom_name": "风团可自行消退",
+          "disease_id": "D006287",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "轻度荨麻疹症是一种常见的皮肤过敏反应，表现为皮肤上出现红色或苍白色风团，伴有瘙痒。风团大小不一，可自行消退，但可能反复发作。"
+    },
+    {
+      "疾病ID": "D006285",
+      "疾病名称": "继发性鼻咽癌症",
+      "症状列表": [
+        {
+          "symptom_id": "S006285_003",
+          "symptom_name": "颈部淋巴结肿大",
+          "disease_id": "D006285",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S003147_006",
+          "symptom_name": "鼻塞",
+          "disease_id": "D006285",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006285_001",
+          "symptom_name": "鼻出血",
+          "disease_id": "D006285",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006285_002",
+          "symptom_name": "听力下降",
+          "disease_id": "D006285",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006285_004",
+          "symptom_name": "头痛",
+          "disease_id": "D006285",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006285_005",
+          "symptom_name": "复视",
+          "disease_id": "D006285",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006285_006",
+          "symptom_name": "面部麻木",
+          "disease_id": "D006285",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "继发性鼻咽癌症是指鼻咽部恶性肿瘤转移至其他部位或由其他部位恶性肿瘤转移至鼻咽部。常见症状包括颈部淋巴结肿大、鼻塞、鼻出血、听力下降等。"
+    },
+    {
+      "疾病ID": "D006284",
+      "疾病名称": "早期甲状腺功能减退硬化",
+      "症状列表": [
+        {
+          "symptom_id": "S003152_004",
+          "symptom_name": "便秘",
+          "disease_id": "D006284",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003152_001",
+          "symptom_name": "疲劳",
+          "disease_id": "D006284",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003152_002",
+          "symptom_name": "体重增加",
+          "disease_id": "D006284",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003152_003",
+          "symptom_name": "皮肤干燥",
+          "disease_id": "D006284",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003152_005",
+          "symptom_name": "畏寒",
+          "disease_id": "D006284",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003152_006",
+          "symptom_name": "声音嘶哑",
+          "disease_id": "D006284",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003152_007",
+          "symptom_name": "甲状腺肿大",
+          "disease_id": "D006284",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S003152_008",
+          "symptom_name": "面部浮肿",
+          "disease_id": "D006284",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "早期甲状腺功能减退硬化是由于甲状腺激素分泌不足导致的一种慢性疾病，主要表现为代谢率降低和交感神经兴奋性下降。"
+    },
+    {
+      "疾病ID": "D006286",
+      "疾病名称": "晚期伤寒病",
+      "症状列表": [
+        {
+          "symptom_id": "S005599_007",
+          "symptom_name": "玫瑰疹",
+          "disease_id": "D006286",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S005599_001",
+          "symptom_name": "持续高热",
+          "disease_id": "D006286",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S005599_002",
+          "symptom_name": "相对缓脉",
+          "disease_id": "D006286",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S005599_003",
+          "symptom_name": "肝脾肿大",
+          "disease_id": "D006286",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S005599_004",
+          "symptom_name": "腹痛",
+          "disease_id": "D006286",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S005599_005",
+          "symptom_name": "头痛",
+          "disease_id": "D006286",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S005599_006",
+          "symptom_name": "乏力",
+          "disease_id": "D006286",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S005599_008",
+          "symptom_name": "意识障碍",
+          "disease_id": "D006286",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S005599_009",
+          "symptom_name": "便秘或腹泻",
+          "disease_id": "D006286",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "伤寒是由伤寒沙门氏菌引起的急性肠道传染病，典型表现为持续高热、相对缓脉、玫瑰疹、肝脾肿大及神经系统症状。晚期伤寒可出现严重并发症如肠穿孔、肠出血等。"
+    },
+    {
+      "疾病ID": "D006288",
+      "疾病名称": "急性甲状腺功能减退损伤",
+      "症状列表": [
+        {
+          "symptom_id": "S002725_004",
+          "symptom_name": "声音嘶哑",
+          "disease_id": "D006288",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002725_001",
+          "symptom_name": "疲劳",
+          "disease_id": "D006288",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002725_002",
+          "symptom_name": "体重增加",
+          "disease_id": "D006288",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002725_003",
+          "symptom_name": "皮肤干燥",
+          "disease_id": "D006288",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002725_005",
+          "symptom_name": "便秘",
+          "disease_id": "D006288",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002725_006",
+          "symptom_name": "畏寒",
+          "disease_id": "D006288",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002725_007",
+          "symptom_name": "面部浮肿",
+          "disease_id": "D006288",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002725_008",
+          "symptom_name": "心率减慢",
+          "disease_id": "D006288",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002725_009",
+          "symptom_name": "甲状腺肿大",
+          "disease_id": "D006288",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S002725_010",
+          "symptom_name": "甲状腺疼痛",
+          "disease_id": "D006288",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "急性甲状腺功能减退损伤是一种由于甲状腺功能突然下降导致的疾病，常见于甲状腺炎或甲状腺手术后。症状包括疲劳、体重增加、皮肤干燥、声音嘶哑等，严重时可导致粘液性水肿昏迷。"
+    },
+    {
+      "疾病ID": "D006289",
+      "疾病名称": "早期鼻息肉炎",
+      "症状列表": [
+        {
+          "symptom_id": "S006289_002",
+          "symptom_name": "鼻塞",
+          "disease_id": "D006289",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006289_004",
+          "symptom_name": "流鼻涕",
+          "disease_id": "D006289",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S000593_009",
+          "symptom_name": "嗅觉减退",
+          "disease_id": "D006289",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006289_005",
+          "symptom_name": "面部疼痛或压迫感",
+          "disease_id": "D006289",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006289_006",
+          "symptom_name": "打鼾",
+          "disease_id": "D006289",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006289_007",
+          "symptom_name": "鼻后滴漏",
+          "disease_id": "D006289",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "早期鼻息肉炎是一种鼻腔和鼻窦黏膜的慢性炎症性疾病，特征为鼻黏膜水肿和息肉形成。常见症状包括鼻塞、流鼻涕、嗅觉减退等。"
+    },
+    {
+      "疾病ID": "D006290",
+      "疾病名称": "复发性胃炎变性",
+      "症状列表": [
+        {
+          "symptom_id": "S007908_006",
+          "symptom_name": "上腹部疼痛",
+          "disease_id": "D006290",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007908_007",
+          "symptom_name": "恶心",
+          "disease_id": "D006290",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007908_008",
+          "symptom_name": "呕吐",
+          "disease_id": "D006290",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007908_009",
+          "symptom_name": "食欲不振",
+          "disease_id": "D006290",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007908_010",
+          "symptom_name": "胃部灼热感",
+          "disease_id": "D006290",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007908_011",
+          "symptom_name": "胃黏膜糜烂",
+          "disease_id": "D006290",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S007908_012",
+          "symptom_name": "黑便",
+          "disease_id": "D006290",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "复发性胃炎变性是一种慢性胃部炎症，其特征是胃黏膜反复发炎和变性，可能导致胃黏膜糜烂和溃疡。常见病因包括长期使用非甾体抗炎药、幽门螺杆菌感染和胆汁反流。"
+    },
+    {
+      "疾病ID": "D006292",
+      "疾病名称": "中度支气管扩张硬化",
+      "症状列表": [
+        {
+          "symptom_id": "S006292_001",
+          "symptom_name": "慢性咳嗽",
+          "disease_id": "D006292",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006292_002",
+          "symptom_name": "咳大量脓痰",
+          "disease_id": "D006292",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S007881_001",
+          "symptom_name": "反复咯血",
+          "disease_id": "D006292",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006292_003",
+          "symptom_name": "呼吸困难",
+          "disease_id": "D006292",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006292_004",
+          "symptom_name": "胸痛",
+          "disease_id": "D006292",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006292_005",
+          "symptom_name": "肺部湿啰音",
+          "disease_id": "D006292",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "中度支气管扩张硬化是一种慢性呼吸系统疾病，其特征为支气管异常扩张和管壁增厚，导致慢性咳嗽、咳大量脓痰和反复咯血等症状。"
+    },
+    {
+      "疾病ID": "D006291",
+      "疾病名称": "复发性肺气肿炎",
+      "症状列表": [
+        {
+          "symptom_id": "S006805_008",
+          "symptom_name": "肌肉痛",
+          "disease_id": "D006291",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006805_001",
+          "symptom_name": "呼吸困难",
+          "disease_id": "D006291",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006805_002",
+          "symptom_name": "咳嗽",
+          "disease_id": "D006291",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006805_003",
+          "symptom_name": "胸痛",
+          "disease_id": "D006291",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006805_004",
+          "symptom_name": "发热",
+          "disease_id": "D006291",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006805_005",
+          "symptom_name": "疲劳",
+          "disease_id": "D006291",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006805_006",
+          "symptom_name": "体重下降",
+          "disease_id": "D006291",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006805_007",
+          "symptom_name": "肺部啰音",
+          "disease_id": "D006291",
+          "specificity": true
+        }
+      ],
+      "疾病解释": "复发性肺气肿炎是一种慢性肺部疾病，特征为肺泡壁破坏导致肺气肿和反复肺部炎症，常见于长期吸烟者或暴露于有害气体的人群。"
+    },
+    {
+      "疾病ID": "D006293",
+      "疾病名称": "重症不孕症病",
+      "症状列表": [
+        {
+          "symptom_id": "S002846_001",
+          "symptom_name": "月经不调",
+          "disease_id": "D006293",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002846_002",
+          "symptom_name": "排卵障碍",
+          "disease_id": "D006293",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S002846_003",
+          "symptom_name": "输卵管阻塞",
+          "disease_id": "D006293",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S002846_004",
+          "symptom_name": "子宫内膜异位",
+          "disease_id": "D006293",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S002846_005",
+          "symptom_name": "激素水平异常",
+          "disease_id": "D006293",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "重症不孕症病是一种严重的生殖系统疾病，主要表现为长期不孕、排卵障碍、输卵管阻塞、子宫内膜异位等，严重影响患者的生育能力。"
+    },
+    {
+      "疾病ID": "D006297",
+      "疾病名称": "早期尿道炎损伤",
+      "症状列表": [
+        {
+          "symptom_id": "S000008_011",
+          "symptom_name": "排尿困难",
+          "disease_id": "D006297",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S000008_012",
+          "symptom_name": "尿频",
+          "disease_id": "D006297",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S000008_013",
+          "symptom_name": "尿急",
+          "disease_id": "D006297",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S000008_014",
+          "symptom_name": "尿道灼热感",
+          "disease_id": "D006297",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S000008_015",
+          "symptom_name": "尿道分泌物",
+          "disease_id": "D006297",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S000008_016",
+          "symptom_name": "下腹部不适",
+          "disease_id": "D006297",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "早期尿道炎损伤是指尿道黏膜因感染或其他原因引起的炎症反应，常见症状包括排尿困难、尿频、尿急、尿道灼热感、尿道分泌物等。"
+    },
+    {
+      "疾病ID": "D006294",
+      "疾病名称": "慢性创伤后应激障碍病",
+      "症状列表": [
+        {
+          "symptom_id": "S006294_003",
+          "symptom_name": "闪回",
+          "disease_id": "D006294",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S008330_008",
+          "symptom_name": "过度警觉",
+          "disease_id": "D006294",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006294_001",
+          "symptom_name": "反复出现的创伤性梦境",
+          "disease_id": "D006294",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006294_002",
+          "symptom_name": "情感麻木",
+          "disease_id": "D006294",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006294_004",
+          "symptom_name": "回避与创伤相关的刺激",
+          "disease_id": "D006294",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006294_005",
+          "symptom_name": "易怒",
+          "disease_id": "D006294",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006294_006",
+          "symptom_name": "睡眠障碍",
+          "disease_id": "D006294",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006294_007",
+          "symptom_name": "注意力不集中",
+          "disease_id": "D006294",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "慢性创伤后应激障碍病是一种由暴露于极端创伤性事件引发的精神障碍，其特征包括反复体验创伤事件、持续回避相关刺激、认知和情绪的负面改变以及警觉性增高，症状持续超过一个月。"
+    },
+    {
+      "疾病ID": "D006296",
+      "疾病名称": "复发性膀胱炎障碍",
+      "症状列表": [
+        {
+          "symptom_id": "S006296_004",
+          "symptom_name": "尿频",
+          "disease_id": "D006296",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S002477_010",
+          "symptom_name": "尿急",
+          "disease_id": "D006296",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006296_001",
+          "symptom_name": "排尿疼痛",
+          "disease_id": "D006296",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006296_002",
+          "symptom_name": "下腹部不适",
+          "disease_id": "D006296",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006296_003",
+          "symptom_name": "尿液浑浊",
+          "disease_id": "D006296",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006296_005",
+          "symptom_name": "血尿",
+          "disease_id": "D006296",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006296_006",
+          "symptom_name": "尿不尽感",
+          "disease_id": "D006296",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "复发性膀胱炎障碍是一种膀胱的反复感染或炎症，主要表现为尿频、尿急、排尿疼痛等症状，通常由细菌感染引起。"
+    },
+    {
+      "疾病ID": "D006295",
+      "疾病名称": "慢性肺栓塞瘤",
+      "症状列表": [
+        {
+          "symptom_id": "S006295_002",
+          "symptom_name": "蛋白尿",
+          "disease_id": "D006295",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S003574_001",
+          "symptom_name": "骨痛",
+          "disease_id": "D006295",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006295_001",
+          "symptom_name": "呼吸困难",
+          "disease_id": "D006295",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006295_003",
+          "symptom_name": "胸痛",
+          "disease_id": "D006295",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006295_004",
+          "symptom_name": "咯血",
+          "disease_id": "D006295",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006295_005",
+          "symptom_name": "疲劳",
+          "disease_id": "D006295",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006295_006",
+          "symptom_name": "心悸",
+          "disease_id": "D006295",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006295_007",
+          "symptom_name": "晕厥",
+          "disease_id": "D006295",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006295_008",
+          "symptom_name": "下肢肿胀",
+          "disease_id": "D006295",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "慢性肺栓塞瘤是一种由于肺动脉内血栓长期存在导致的疾病，通常表现为呼吸困难、胸痛和咯血等症状，严重时可导致肺动脉高压和右心衰竭。"
+    },
+    {
+      "疾病ID": "D006298",
+      "疾病名称": "晚期淋病",
+      "症状列表": [
+        {
+          "symptom_id": "S004722_008",
+          "symptom_name": "皮肤红肿",
+          "disease_id": "D006298",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S004722_009",
+          "symptom_name": "尿道脓性分泌物",
+          "disease_id": "D006298",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S004722_010",
+          "symptom_name": "排尿疼痛",
+          "disease_id": "D006298",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S004722_011",
+          "symptom_name": "盆腔疼痛",
+          "disease_id": "D006298",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S004722_012",
+          "symptom_name": "关节炎",
+          "disease_id": "D006298",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S004722_013",
+          "symptom_name": "发热",
+          "disease_id": "D006298",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S004722_014",
+          "symptom_name": "皮肤脓疱",
+          "disease_id": "D006298",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S004722_015",
+          "symptom_name": "结膜炎",
+          "disease_id": "D006298",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "晚期淋病是由淋病奈瑟菌引起的性传播疾病，可导致泌尿生殖系统、盆腔、关节等多系统感染，严重时可引起全身性并发症。"
+    },
+    {
+      "疾病ID": "D006299",
+      "疾病名称": "重症肺栓塞症",
+      "症状列表": [
+        {
+          "symptom_id": "S007385_011",
+          "symptom_name": "呼吸困难",
+          "disease_id": "D006299",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007385_012",
+          "symptom_name": "胸痛",
+          "disease_id": "D006299",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007385_013",
+          "symptom_name": "咯血",
+          "disease_id": "D006299",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S007385_014",
+          "symptom_name": "晕厥",
+          "disease_id": "D006299",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007385_015",
+          "symptom_name": "心动过速",
+          "disease_id": "D006299",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007385_016",
+          "symptom_name": "低血压",
+          "disease_id": "D006299",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007385_017",
+          "symptom_name": "发绀",
+          "disease_id": "D006299",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S007385_018",
+          "symptom_name": "咳嗽",
+          "disease_id": "D006299",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "重症肺栓塞症是由于肺动脉或其分支被血栓阻塞，导致肺循环障碍的严重疾病。常见症状包括呼吸困难、胸痛、咯血等，严重时可导致休克甚至死亡。"
+    },
+    {
+      "疾病ID": "D006300",
+      "疾病名称": "晚期乳腺癌障碍",
+      "症状列表": [
+        {
+          "symptom_id": "S006300_002",
+          "symptom_name": "乳房肿块",
+          "disease_id": "D006300",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S000751_007",
+          "symptom_name": "体重下降",
+          "disease_id": "D006300",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006300_003",
+          "symptom_name": "乳房皮肤改变（如橘皮样变）",
+          "disease_id": "D006300",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006300_004",
+          "symptom_name": "乳头溢液（尤其是血性）",
+          "disease_id": "D006300",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006300_005",
+          "symptom_name": "乳房疼痛",
+          "disease_id": "D006300",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006300_006",
+          "symptom_name": "腋窝淋巴结肿大",
+          "disease_id": "D006300",
+          "specificity": true
+        },
+        {
+          "symptom_id": "S006300_007",
+          "symptom_name": "疲劳",
+          "disease_id": "D006300",
+          "specificity": false
+        },
+        {
+          "symptom_id": "S006300_008",
+          "symptom_name": "骨痛（如转移至骨骼）",
+          "disease_id": "D006300",
+          "specificity": false
+        }
+      ],
+      "疾病解释": "晚期乳腺癌障碍是指乳腺癌进展至晚期阶段，通常伴随局部浸润和远处转移。主要特征包括乳房肿块、皮肤改变、乳头异常及淋巴结转移。晚期症状可能涉及全身多系统，如骨痛、疲劳和体重下降。"
+    }
+  ]
+}

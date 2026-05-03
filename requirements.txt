@@ -1,0 +1,61 @@
+# Core dependencies
+flask==2.3.3
+flask-cors==4.0.0
+aiohttp==3.8.5
+
+# Data science and analysis
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+scikit-learn==1.3.0
+lifelines==0.27.8
+statsmodels==0.14.0
+PyWavelets==1.4.1
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+scikit-survival==0.21.0
+xgboost==1.7.6
+lightgbm==4.0.0
+catboost==1.2.2
+tensorflow==2.13.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Additional scientific computing
+numba==0.57.1
+sympy==1.12.0
+cvxpy==1.3.2
+cvxopt==1.3.2
+
+# Advanced statistics and survival analysis
+rpy2==3.5.11
+
+# Signal processing
+scipy-signal==1.11.1
+
+# Visualization enhancements
+plotly==5.15.0
+bokeh==3.2.2
+holoviews==1.17.1
+
+# Performance optimization
+joblib==1.3.2
+dask==2023.9.2
+
+# Development and testing enhancements
+memory-profiler==0.61.0
+line-profiler==4.1.2
+
+# System monitoring
+psutil==5.9.5
+
+# Testing
+pytest==7.4.0
+pytest-asyncio==0.21.1
+
+# Optional: For development and testing
+pytest-cov==4.1.0
+black==23.7.0
+flake8==6.0.0
