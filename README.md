@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![ICLR 2026](https://img.shields.io/badge/ICLR-2026-red.svg)](https://iclr.cc/)
 
 A comprehensive AI-powered medical diagnostic system that integrates advanced mathematical modeling with probabilistic reasoning for systematic risk stratification and interpretable diagnostic assistance.
 
